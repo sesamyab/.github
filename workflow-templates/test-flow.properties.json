@@ -1,0 +1,5 @@
+{
+  "name": "Testing this template thing",
+  "description": "Runs a deploy:diff and adds it as a comment on a PR to confirm infrastructure drift on the new version. Requires a npm deploy:diff script in the project root package.json",
+  "iconName": "cdk-diff"
+}
