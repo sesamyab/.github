@@ -8,6 +8,6 @@
   ],
   "filePatterns": [
       "package.json$",
-      "cdk.json"
+      "cdk.json$"
   ]
 }
